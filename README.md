@@ -39,14 +39,13 @@ export default App;
 📂 Project Setup
 Clone this repository or create a new React app:
 
-npx create-react-app visibility-toggle
-cd visibility-toggle
+npm create vite@latest
+answer the prompts accordingly
 Replace the contents of App.js with the example code above.
 
 Run the project:
+npm run dev
 
-
-npm start
 ✅ Output
 When you run the app, you’ll see a button. Clicking it will toggle the visibility of a message below it.
 
